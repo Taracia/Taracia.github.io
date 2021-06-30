@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello Fellow Humans!! I am an Entrepreneur and am learning how to code. I am so excited and grateful to embark on this journey with Codecademy and Purdue Univeristy Global.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a loving wife to my husband of 31 years. We have three children and I have been working since I was 16. I have always used a computer in my jobs and now I get to look into the inner workings of the computer. Did I say How Excited I Am!!
